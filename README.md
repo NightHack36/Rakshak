@@ -27,7 +27,7 @@ App Photos Link:![image](https://user-images.githubusercontent.com/78973509/1142
 * Contributors:
 
 
-#Team Name: NighHack36
+# Team Name: NighHack36
 
 * Astha 
 * Satya Srivastava
