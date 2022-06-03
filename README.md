@@ -1,14 +1,6 @@
   ![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png)   
   
   
-  
-  
-  
-  #WOMEN-RAKSHAK
-
-
-
-
 
 Introduction:
 Intro of the project: Women Safety
@@ -28,21 +20,21 @@ Demo Video Link:https://youtu.be/SXnz1QGLXG8
 
 Presentation Link:https://drive.google.com/file/d/1VYw9GZCICA5GhzlSiX6PNzCICvWlQY-a/view?usp=sharing
 
-#Table of Contents:
-Google MAP API
-HTML
-Bootstrap
-CSS
-JavaScript
-Contributors:
+# Table of Contents:
+* Google MAP API
+* HTML
+* Bootstrap
+* CSS
+* JavaScript
+* Contributors:
 
 
 #Team Name: NighHack36
 
-Astha 
-Satya Srivastava
-Yash
-Dharmendra
+* Astha 
+* Satya Srivastava
+* Yash
+* Dharmendra
 
 
 
