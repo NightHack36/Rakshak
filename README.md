@@ -1,6 +1,8 @@
-  ![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png)   
+  ![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png) 
   
-  
+* Demo Video [Link](https://youtu.be/SXnz1QGLXG8)
+* Live Website [link](https://nighthack36.github.io/Rakshak/)
+* Presentation [Link](https://drive.google.com/file/d/1VYw9GZCICA5GhzlSiX6PNzCICvWlQY-a/view?usp=sharing)
 
 
 ## Intro of the project: Women Safety
@@ -15,15 +17,6 @@
 
 
 App Photos Link:![image](https://user-images.githubusercontent.com/78973509/114292548-d72c7700-9aac-11eb-9ba9-025fb9ee7e0b.png)
-
-
-
-
-
-Demo Video Link:https://youtu.be/SXnz1QGLXG8
-
-
-Presentation Link:https://drive.google.com/file/d/1VYw9GZCICA5GhzlSiX6PNzCICvWlQY-a/view?usp=sharing
 
 # Table of Contents:
 * Google MAP API
